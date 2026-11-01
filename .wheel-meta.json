@@ -1,0 +1,22 @@
+{
+  "wheel_id": 617,
+  "structure": "umbrella",
+  "slug": "melbournenorthkitchenrenovation-103",
+  "project": "kitchen-renovations-melbourne-north-glossary-512894c90999d33",
+  "parent_t1_ref": "melbournenorthkitchenrenovation-151",
+  "node_role": "feeder",
+  "money_target": "melbournenorthkitchenrenovation.com.au",
+  "primary_kw": "kitchen renovations melbourne north glossary",
+  "intended_url": "https://vercel-cloudsites-hub.vercel.app/sites-01/kitchen-renovations-melbourne-north-glossary-512894c90999d33/",
+  "tier": "T2",
+  "writeback_nonce": "3dcd309e56563eb3",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/kitchen-renovations-melbourne-north-planning-guide-c60e5108a76e/",
+      "anchor": "Kitchen Renovations Melbourne North Planning Guide: Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
